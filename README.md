@@ -1,5 +1,5 @@
 # Python-Checkers
-A checkers AI using the minimax algorithm.
+A checkers using the minimax algorithm.
 
 ![Снимок экрана (84)](https://github.com/DariaVerseau/Checkers2/assets/107678604/b6454271-7db6-461c-a567-2466b185b412)
 
